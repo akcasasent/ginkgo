@@ -1,8 +1,13 @@
 Ginkgo
 =========
 
-#### Ginkgo is a cloud-based single-cell copy-number variation analysis tool.
-#### Launch Ginkgo: [qb.cshl.edu/ginkgo](http://qb.cshl.edu/ginkgo)
+# Script for creating varaible bins 
+
+I will only examining the scripts for creating new variable bins 
+Additional genomes will be added 
+* mm10 200kb bins: TBD
+* other mouse bins: TBD
+* human t2t bins: TBD
 
 Usage
 =========
